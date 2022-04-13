@@ -12,7 +12,7 @@ const JournalEntry = () => {
         }}
       ></div>
       <div className="journal__entry-body">
-        <p className="journal__entry-title">Un nuevo día</p>
+        <p className="journal__entry-title">A new day</p>
         <p className="journal__entry-content">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer et
           pulvinar odio.
