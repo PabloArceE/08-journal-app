@@ -16,10 +16,10 @@ Esta aplicación fue desarrollada con React
 - Acciones asíncronas
 
 - Redux aplicado en nuestro proyecto
-- Firebase
+- Firebase para manejar las autenticaciones con cuenta de Google y con Email
 - FireStore
-- Redux Devtools
-- Thunk
+- Redux Devtools para monitorear los cambios en el store y los procesos de redux
+- Thunk librería para manejar los middlewares
 - Formularios
 - Google SingIn
 - Acciones Asíncronas
